@@ -6,15 +6,15 @@
 
 #### Prerequisites
 
-Uh, just Git, I think.
+Uh, just Git, I think.  And maybe this is only for macs?  Sorry, Powershell.
 
 ## OK Real instructions.
 
 1. Put this stuff in the appropriate files at the top level of your machine. That's it.  
 
-## *OK REAL-ER INSTRUCTIONS*
+## **OK REAL-ER INSTRUCTIONS**
 
-1.  Go to the top level of your machine. If you're unfamiliar, `cd ~ ` gets you there.
+1.  Go to the top level of your machine. If you're unfamiliar, open up your terminal and type `cd ~ `.
 2. Check to see if these files exist first.  `ls -a` will give you a thorough list of what you've got.  
 3. To edit the contents of the existing files, run either ` atom FILENAME` or `nano FILENAME` or, if you're a fan of vim, `vim FILENAME`  (Personally, I think vim is gross.  But, preferences!  Do what makes you happy, yo.)  Then add the contents from this repo into your corresponding files.  Easy peasy!
 4. _If these files don't exist yet_, make 'em!  You can use the same commands as above to do that.
