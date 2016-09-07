@@ -2,6 +2,10 @@
 
 ## RAINBOW TERMINAL **YEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHH**
 
+![screen shot 2016-09-06 at 10 09 59 pm](https://cloud.githubusercontent.com/assets/13214521/18300663/0c972014-7480-11e6-954c-f90554f944ad.png)
+
+### WOW IT'S SO GREAT
+
 OK Real instructions.
 
 1. Put this stuff in the appropriate files at the top level of your machine 
@@ -19,4 +23,4 @@ OK Real instructions.
 
 4. If these files don't exist yet, make 'em!  You can use the same commands as above to do that.
 
-5. Bippity bobbity RAINBOW TERMINAL YEAAAAHHH
+5. Bibbity bobbity RAINBOW TERMINAL YEAAAAHHH
