@@ -4,16 +4,20 @@
 
 ### WOW IT'S SO GREAT
 
-OK Real instructions.
+#### Prerequisites
 
-1. Put this stuff in the appropriate files at the top level of your machine 
-` cd ~ ` gets you there, if you're unfamiliar.
-2. Check to see if these files exist first.
-`ls -a` will five you a thorough list of what you've got.  
+Uh, just Git, I think.
 
-3. To edit the contents, run either ` atom FILENAME` or `nano FILENAME` or, if you're a fan of vim, `vim FILENAME`  Personally, I think vim is gross.  But, preferences!  Do what makes you happy, yo.
+## OK Real instructions.
 
-4. If these files don't exist yet, make 'em!  You can use the same commands as above to do that.
-ex: `atom .bash_profile`, then dump the contents of this repo's `.bash_profile` right on in there, etc etc. 
+1. Put this stuff in the appropriate files at the top level of your machine. That's it.  
+
+## *OK REAL-ER INSTRUCTIONS*
+
+1.  Go to the top level of your machine. If you're unfamiliar, `cd ~ ` gets you there.
+2. Check to see if these files exist first.  `ls -a` will give you a thorough list of what you've got.  
+3. To edit the contents of the existing files, run either ` atom FILENAME` or `nano FILENAME` or, if you're a fan of vim, `vim FILENAME`  (Personally, I think vim is gross.  But, preferences!  Do what makes you happy, yo.)  Then add the contents from this repo into your corresponding files.  Easy peasy!
+4. _If these files don't exist yet_, make 'em!  You can use the same commands as above to do that.
+ex: `atom .bash_profile`, then dump the contents of this repo's `.bash_profile` right on in there and save, etc etc. 
 
 5. Bibbity bobbity RAINBOW TERMINAL YEAAAAHHH
