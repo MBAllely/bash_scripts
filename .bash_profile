@@ -7,8 +7,5 @@ alias ls='ls -GFh'
 # GIT PROMPT
 . ~/.git_prompt
 
-# GIT COMPLETION
-. ~/.git_completion.bash
-
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile" # Load the default .profile
 
