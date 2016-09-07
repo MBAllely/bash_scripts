@@ -6,7 +6,7 @@
 
 #### Prerequisites
 
-Uh, just **Git**, I think.  Also I'm p-sure this only works with **bash**.  Sorry, Powershell.
+Uh, just **Git**, I think.  Also this is for **bash**.  Sorry, Powershell.
 
 ## OK Real instructions.
 
