@@ -11,13 +11,7 @@ OK Real instructions.
 2. Check to see if these files exist first.
 `ls -a` will five you a thorough list of what you've got.  
 
-3. To edit the contents, run either
-
-` atom FILENAME` or
-
-`nano FILEMNAME` or, if you're a fan of Vim, 
-
-`vim FILENAME`  Personally, I think vim is gross.  But, preferences!
+3. To edit the contents, run either ` atom FILENAME` or `nano FILENAME` or, if you're a fan of vim, `vim FILENAME`  Personally, I think vim is gross.  But, preferences!  Do what makes you happy, yo.
 
 4. If these files don't exist yet, make 'em!  You can use the same commands as above to do that.
 ex: `atom .bash_profile`, then dump the contents of this repo's `.bash_profile` right on in there, etc etc. 
