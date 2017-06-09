@@ -23,3 +23,7 @@ ex: `atom .bash_profile`, then dump the contents of this repo's `.bash_profile` 
 5. Bibbity bobbity RAINBOW TERMINAL YEAAAAHHH
 
 6. (optional) customize your terminal theme to complement your SICK NEW SETTINGS (and guarantee readbility).  I chose the theme 'pro' and set it to default.
+
+BUGS
+
+It'll open all new tabs at ~/ which is slightly annoying but completely workable.  If you figure out how to fix it, pls let me know how you did it.
