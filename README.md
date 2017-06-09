@@ -21,3 +21,5 @@ Uh, just **Git**, I think.  Also this is for **bash**.  Sorry, Powershell.
 ex: `atom .bash_profile`, then dump the contents of this repo's `.bash_profile` right on in there and save, etc etc. 
 
 5. Bibbity bobbity RAINBOW TERMINAL YEAAAAHHH
+
+6. (optional) customize your terminal theme to complement your SICK NEW SETTINGS (and guarantee readbility).  I chose the theme 'pro' and set it to default.
